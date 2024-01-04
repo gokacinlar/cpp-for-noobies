@@ -16,6 +16,6 @@ int main()
 		cout << "fonksiyonun dondurdugu sonuc=" << Ornek(deger)<<endl;
 		cout << "main deki deger=" << deger;
 		cout << endl;
-	return 0;
+	return 0;;
 
 }
