@@ -1,0 +1,10 @@
+pow(3,4)
+
+işlemi, 3'ün x katı kadar değerini çarpar.
+
+pow (3 [3 doğal sayısı], 4 [kaç katına kadar çarpılacağı])
+
+pow(3,4)
+	= 81
+
+	3.3.3 = 81

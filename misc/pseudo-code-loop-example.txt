@@ -1,0 +1,8 @@
+SET x=20, y=2
+DO 
+      COMPUTE x= x / 2
+      COMPUTE y= y + 1
+      IF x>y THEN
+                          PRINT x, y
+      ENDIF
+WHILE x>y

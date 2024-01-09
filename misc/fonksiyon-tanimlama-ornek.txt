@@ -1,0 +1,9 @@
+// fonksiyon tanımlama semasi
+
+Veri tipi fonksiyon(Fonksiyon giris parametresi)
+{
+
+	Deyimler...
+	return fonksiyon veri tipinde deger
+
+}
